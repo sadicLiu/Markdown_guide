@@ -1,4 +1,5 @@
 ## 简单说明
+- 将这个文件下载到本地，用文本编辑器打开，你就会看到这个文档是怎么写出来的，这里面用的语法就是Markdown语法
 - 下面的内容是Markdown中常用的语法，比如#是一级标题，浏览器会将它渲染成h1标签，##是二级标题
 - 在sublime按ctrl+shift+p，输入install，安装markdown editing（用于编辑md文件）和markdown preview（用于在浏览器中渲染md文件）这两个插件，然后打开此文件，按alt+m，你应该就能在浏览器中看到渲染好的文件了
 
